@@ -1,0 +1,19 @@
+body {
+  background: pink !important;
+}
+
+.post-editor,
+.post {
+  margin: 5em 20%;
+}
+
+.post-editor-input {
+  border-radius: 0 !important;
+}
+
+.post-btn {
+  width: 200px;
+  margin-top: 1em;
+  border-radius: 0 !important;
+  float: right;
+}
